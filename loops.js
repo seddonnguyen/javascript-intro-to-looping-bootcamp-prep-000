@@ -14,7 +14,7 @@ function whileLoop(n) {
     console.log(n);
     n--;
   }
-    console.log("done")
+    return "done";
 }
 
 var i = 0;
